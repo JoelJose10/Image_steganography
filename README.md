@@ -1,2 +1,3 @@
 # Image_steganography
-dsp project
+DSP project
+By Joel Jose
